@@ -24,30 +24,30 @@ const Footer = () => {
             Social Links
           </h3>
           
-          <div className="flex gap-6">
+          <div className="flex gap-4">
             <a 
-              href="https://www.facebook.com/mr.mizanur.info/" 
+              href="https://www.facebook.com/masudranamdra1/" 
               target="_blank"
               rel="noopener noreferrer"
-              className="w-12 h-12 bg-white/10 hover:bg-white/20 rounded-2xl flex items-center justify-center transition-all hover:scale-110"
+              className="w-12 h-12 bg-white/10 hover:bg-[#348cff] rounded-full flex items-center justify-center transition-all hover:scale-110"
             >
               <FaFacebook className="text-2xl" />
             </a>
             
             <a 
-              href="https://www.instagram.com/mr.mizanur_/" 
+              href="https://www.instagram.com/masudranamdra/" 
               target="_blank"
               rel="noopener noreferrer"
-              className="w-12 h-12 bg-white/10 hover:bg-white/20 rounded-2xl flex items-center justify-center transition-all hover:scale-110"
+              className="w-12 h-12 bg-white/10 hover:bg-[#ff6ab7] rounded-full flex items-center justify-center transition-all hover:scale-110"
             >
               <FaInstagram className="text-2xl" />
             </a>
             
             <a 
-              href="https://www.youtube.com/@mizdev" 
+              href="https://www.youtube.com/@Masudranamdra" 
               target="_blank"
               rel="noopener noreferrer"
-              className="w-12 h-12 bg-white/10 hover:bg-white/20 rounded-2xl flex items-center justify-center transition-all hover:scale-110"
+              className="w-12 h-12 bg-white/10 hover:bg-[#ff0e0e] rounded-full flex items-center justify-center transition-all hover:scale-110"
             >
               <FaYoutube className="text-2xl" />
             </a>

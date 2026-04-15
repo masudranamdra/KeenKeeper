@@ -67,15 +67,15 @@ const Navbar = () => {
                 <div className="md:hidden px-6 pb-4 space-y-3 font-semibold">
 
                     <NavLink to="/" onClick={() => setOpen(false)} className={linkStyle}>
-                        <CiHome /> Home
+                        <AiOutlineHome /> Home
                     </NavLink>
 
                     <NavLink to="/timeline" onClick={() => setOpen(false)} className={linkStyle}>
-                        <IoMdClock /> Timeline
+                        <TbClockHour3 /> Timeline
                     </NavLink>
 
                     <NavLink to="/status" onClick={() => setOpen(false)} className={linkStyle}>
-                        <IoStatsChart /> Stats
+                        <ImStatsDots /> Stats
                     </NavLink>
 
                 </div>
