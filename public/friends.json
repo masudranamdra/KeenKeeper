@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Priya Sharma",
-      "picture": "https://picsum.photos/id/64/300/300",
+      "picture": "https://randomuser.me/api/portraits/women/3.jpg",
       "email": "priya.sharma@email.com",
       "days_since_contact": 18,
       "status": "overdue",
@@ -15,7 +15,7 @@
     {
       "id": 2,
       "name": "Rahim Khan",
-      "picture": "https://picsum.photos/id/91/300/300",
+      "picture": "https://randomuser.me/api/portraits/men/1.jpg",
       "email": "rahim.khan92@gmail.com",
       "days_since_contact": 7,
       "status": "on-track",
@@ -39,7 +39,7 @@
     {
       "id": 4,
       "name": "Arjun Patel",
-      "picture": "https://picsum.photos/id/201/300/300",
+      "picture": "https://randomuser.me/api/portraits/men/9.jpg",
       "email": "arjun.patel1995@yahoo.com",
       "days_since_contact": 25,
       "status": "overdue",
@@ -51,7 +51,7 @@
     {
       "id": 5,
       "name": "Nadia Islam",
-      "picture": "https://picsum.photos/id/1009/300/300",
+      "picture": "https://randomuser.me/api/portraits/women/8.jpg",
       "email": "nadia.islam.bd@gmail.com",
       "days_since_contact": 4,
       "status": "on-track",
@@ -75,7 +75,7 @@
     {
       "id": 7,
       "name": "Meherun Nessa",
-      "picture": "https://picsum.photos/id/1025/300/300",
+      "picture": "https://randomuser.me/api/portraits/women/13.jpg",
       "email": "meherun.n@gmail.com",
       "days_since_contact": 32,
       "status": "overdue",
@@ -87,7 +87,7 @@
     {
       "id": 8,
       "name": "Fahim Chowdhury",
-      "picture": "https://picsum.photos/id/238/300/300",
+      "picture": "https://randomuser.me/api/portraits/men/18.jpg",
       "email": "fahim.chy@live.com",
       "days_since_contact": 12,
       "status": "almost due",
@@ -99,7 +99,7 @@
     {
       "id": 9,
       "name": "Imran Hossain",
-      "picture": "https://picsum.photos/id/269/300/300",
+      "picture": "https://randomuser.me/api/portraits/men/14.jpg",
       "email": "imran.hossain@outlook.com",
       "days_since_contact": 21,
       "status": "overdue",
@@ -111,7 +111,7 @@
     {
       "id": 10,
       "name": "Lubna Parveen",
-      "picture": "https://picsum.photos/id/59/300/300",
+      "picture": "https://randomuser.me/api/portraits/women/29.jpg",
       "email": "lubna.parveen@live.com",
       "days_since_contact": 24,
       "status": "overdue",
@@ -123,7 +123,7 @@
     {
       "id": 11,
       "name": "Sadia Rahman",
-      "picture": "https://picsum.photos/id/795/300/300",
+      "picture": "https://randomuser.me/api/portraits/women/90.jpg",
       "email": "sadia.rahman@bdmail.com",
       "days_since_contact": 3,
       "status": "on-track",
@@ -135,7 +135,7 @@
     {
       "id": 12,
       "name": "Sabbir Rahman",
-      "picture": "https://picsum.photos/id/837/300/300",
+      "picture": "https://randomuser.me/api/portraits/men/30.jpg",
       "email": "sabbir.rahman@yahoo.com",
       "days_since_contact": 18,
       "status": "almost due",

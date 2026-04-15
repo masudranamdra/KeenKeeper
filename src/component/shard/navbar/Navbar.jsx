@@ -1,7 +1,4 @@
 import React, { useState } from 'react';
-import { CiHome } from 'react-icons/ci';
-import { IoMdClock } from 'react-icons/io';
-import { IoStatsChart } from 'react-icons/io5';
 import { NavLink } from 'react-router-dom';
 import { FiMenu, FiX } from 'react-icons/fi';
 import { AiOutlineHome } from "react-icons/ai";
