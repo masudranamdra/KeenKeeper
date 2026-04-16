@@ -61,7 +61,7 @@ const HomeHeader = () => {
             
             <div>
               <div className="text-4xl text-center font-bold text-[#244D3F]">12</div>
-              <div className="text-gray-500 text-sm">Interactions</div>
+              <div className="text-gray-500 text-sm">Interactions This Month</div>
             </div>
           </div>
         </div>

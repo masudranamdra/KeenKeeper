@@ -21,8 +21,35 @@ GitHub Repository: https://github.com/masudranamdra/KeenKeeper
 * React Router DOM
 * Tailwind CSS
 * Recharts
+* JavaScript (ES6+)
+* DaisyUI
+* React Router
+* React Icons
+* React Toastify
+* Recharts
+* Data
+* JSON
+* localStorage
 
 ---
+📦 Installation
+Clone the repository:
+git clone https://github.com/nafiz2024/Programming-Hero-Assignment-07
+Go to project folder:
+
+cd Assignment-7
+Install dependencies:
+
+npm install
+Run the project:
+
+npm run dev
+Build for production:
+
+npm run build
+Run lint:
+
+npm run lint
 
 ## Core Features
 
